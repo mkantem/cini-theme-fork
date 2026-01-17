@@ -1,4 +1,6 @@
 ---
-name: Room B
-hide: true
+name: En ligne
+hide: false
 ---
+
+En ligne via Zoom

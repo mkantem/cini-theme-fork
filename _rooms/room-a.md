@@ -1,5 +1,5 @@
 ---
-name: Room A
+name: Salle de conference de l'ISH
 ---
 
-A short way description on how to find the room
+La grande salle de conference de l'Institut des Sciences Humaines.
